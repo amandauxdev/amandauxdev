@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hello World 👋, I'm Amanda Gonçalves
 
-<!--
-**amandauxdev/amandauxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **UX/UI Designer** | 💻 **Full-Stack Web Developer**  
+🚀 Building web experiences focused on **clarity, performance, and real usability**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚒️ Skills & Technologies
+
+### 🌐 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" />
+</p>
+
+### 🤖 Tools & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
+</p>
+<br>
+<div align="center" style="margin-top:40px;">
+  <a href="https://github.com/amandauxdev">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=amandauxdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  </a>
+</div>
+
+         
+          
+          
+          
+               
+
