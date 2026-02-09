@@ -20,12 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
 </p>
-<br>
-<div align="center" style="margin-top:40px;">
-  <a href="https://github.com/amandauxdev">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=amandauxdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  </a>
-</div>
+
 
          
           
