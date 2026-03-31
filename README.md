@@ -1,29 +1,28 @@
-## Hello World 👋, I'm Amanda Gonçalves
+## Hello World, 👋 Eu sou Amanda Araujo
 
-🎨 **UX/UI Designer** | 💻 **Full-Stack Web Developer**  
-🚀 Building web experiences focused on **clarity, performance, and real usability**
-
+💻 **Front-end Web Developer** | 🎨 **UX/UI Designer** 
+### 🚀 Construindo experiências web focadas em clareza, performance e usabilidade real.
 ---
 
 ## ⚒️ Skills & Technologies
 
 ### 🌐 Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" />
-</p>
+<table>
+  <tr>
+    <td width="65"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" /></td>
+    <td width="65"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" /></td>
+    <td width="65"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" /></td>
+  </tr>
+</table>
 
 ### 🤖 Tools & Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
-</p>
-
-
-         
-          
+<table>
+  <tr>
+    <td width="65"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" /></td>
+    <td width="65"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" /></td>
+   <td width="65"><img src="https://skillicons.dev/icons?i=github" width="45" /></td>
+  </tr>
+</table>      
           
           
                
